@@ -1,0 +1,25 @@
+To reinforce the understanding of pointers and dynamic memory allocation in the context of a two-dimensional array representing student grades, implement the following task.
+
+Task Description: Implement a program that manages the grades of multiple students in different courses using a dynamic two-dimensional array.
+
+Requirements:
+
+Prompt the user for the number of students and the number of courses.
+Dynamically allocate memory for a two-dimensional array to store the grades.
+Allow the user to enter grades for each student and each course.
+Implement functions to:
+Calculate the highest grade in each course.
+Calculate the average grade per course.
+Calculate the average grade per student.
+Count the number of students with a grade above the average per course.
+Display the matrix of grades.
+Free the memory before exiting the program.
+Implementation Guidelines:
+
+Use pointers to access elements of the two-dimensional array.
+Create separate functions for different tasks (e.g., input, calculations, display).
+Ensure proper error handling in case of memory allocation failure.
+
+
+
+
